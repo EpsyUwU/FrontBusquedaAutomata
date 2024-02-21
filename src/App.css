@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #1F2937; /* Este es el color correspondiente a bg-gray-900 en Tailwind CSS */
+}
+

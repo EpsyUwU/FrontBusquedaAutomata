@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
      <BrowserRouter>
         <Routes>
-            <Route path="/register" element={<RegisterForm/>} />
+            <Route path="/" element={<RegisterForm/>} />
             <Route path="/app" element={<App/>} />
         {/* Asegúrate de agregar aquí cualquier otra ruta que necesites */}
         </Routes>
